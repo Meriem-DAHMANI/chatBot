@@ -1,2 +1,2 @@
 # chatBot
-Implementation of a chatbot using pytorch and NLP techniques
+Implementation of a chatbot using pytorch and NLP techniques.
